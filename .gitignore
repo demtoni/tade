@@ -1,0 +1,8 @@
+*.db
+TODO
+.env
+env.sh
+manager.json
+tade-app
+tade-manager
+init.sql
